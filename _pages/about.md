@@ -35,7 +35,7 @@ redirect_from:
 <body>
     <div class="container">
         <div class="text">
-            <p>I am a postgraduate  in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. My supervisor is Shen-Huan Lyu, and this is his website [Shen-Huan Lyu (吕沈欢) - Homepage (lyushenhuan.github.io)](https://lyushenhuan.github.io/). <br><br>
+            <p>I am a postgraduate  in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. My supervisor is Shen-Huan Lyu, and this is his website <a href="https://lyushenhuan.github.io/">Shen-Huan Lyu (吕沈欢) - Homepage</a>. <br><br>
               My research interest includes <b>Multi-Label learning theory</b>.<br><br>
               </p>
         </div>
