@@ -57,6 +57,17 @@ redirect_from:
 # 🎖 Honors and Awards
 - 
 
+# ✨ Academic Service
+- 
+
+# 📖 Educations
+- 
+
+# 💬 Invited Talks
+- 
+
+# 💻 Internships
+- 
 
 
 <br><br><br><br>

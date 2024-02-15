@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Students"
-    url: "/#-students"
+  #- title: "Students"
+  #  url: "/#-students"
 
   - title: "Publications"
     url: "/#-publications"
@@ -15,8 +15,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
+  #- title: "Academic Service"
+  #  url: "/#-academic-service"
 
   - title: "Educations"
     url: "/#-educations"
