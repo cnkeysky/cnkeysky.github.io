@@ -71,11 +71,16 @@ redirect_from:
 -->
 # Blog
 My csdn blog is <a href='https://blog.csdn.net/cnkeysky'>cnkeysky</a>
+
 # Resource
+
 ## multi-label dataset
 - we can find some datasets in this <a href='https://mulan.sourceforge.net/datasets-mlc.html'>website</a>
+
+
 ## Learning Roadmap
 - You can get basic knowledge from <a href='https://github.com/Visualize-ML'>this</a>
 - Then, I recommend you read <a href='https://d2l.ai/'>this</a>, and the good news is it provides different language version.
+
 <br><br><br><br>
 
