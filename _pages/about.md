@@ -36,7 +36,7 @@ redirect_from:
     <div class="container">
         <div class="text">
             <p>I am a postgraduate  in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. My supervisor is Shen-Huan Lyu, and this is his website <a href="https://lyushenhuan.github.io/">Shen-Huan Lyu (吕沈欢) - Homepage</a>. <br><br>
-              My research interest includes <b>Multi-Label learning</b>.<br><br>
+              My research interest includes <b>Multi-Label Learning and Reinforcement Learning</b>.<br><br>
               </p>
         </div>
         <div class="image">
@@ -46,7 +46,7 @@ redirect_from:
 </body>
 
 
-# 🔥 News
+<!--# 🔥 News
 - 
 
 
@@ -68,7 +68,14 @@ redirect_from:
 
 # 💻 Internships
 - 
-
-
+-->
+# Blog
+My csdn blog is <a href='https://blog.csdn.net/cnkeysky'>cnkeysky</a>
+# Resource
+## multi-label dataset
+- we can find some datasets in this <a href='https://mulan.sourceforge.net/datasets-mlc.html'>website</a>
+## Learning Roadmap
+- You can get basic knowledge from <a href='https://github.com/Visualize-ML'>this</a>
+- Then, I recommend you read <a href='https://d2l.ai/'>this</a>, and the good news is it provides different language version.
 <br><br><br><br>
 
