@@ -80,6 +80,7 @@ My csdn blog is <a href='https://blog.csdn.net/cnkeysky'>cnkeysky</a>
 
 ## Learning Roadmap
 - You can get basic knowledge from <a href='https://github.com/Visualize-ML'>this</a>
+- And another reference <a href='https://github.com/dair-ai/Mathematics-for-ML'>Mathematics for Machine Learning</a>.
 - Then, I recommend you read <a href='https://d2l.ai/'>this</a>, and the good news is it provides different language version.
 
 <br><br><br><br>
